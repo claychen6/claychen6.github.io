@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Nginx 配置</title>
+    <url>/202003/nginx-config/</url>
+    <content><![CDATA[<h2 id="一、Nginx-https-配置"><a href="#一、Nginx-https-配置" class="headerlink" title="一、Nginx https 配置"></a>一、Nginx https 配置</h2><h2 id="二、Nginx-反向代理"><a href="#二、Nginx-反向代理" class="headerlink" title="二、Nginx 反向代理"></a>二、Nginx 反向代理</h2><h2 id="三、Nginx-负载均衡"><a href="#三、Nginx-负载均衡" class="headerlink" title="三、Nginx 负载均衡"></a>三、Nginx 负载均衡</h2><h2 id="四、Nginx-配置优化"><a href="#四、Nginx-配置优化" class="headerlink" title="四、Nginx 配置优化"></a>四、Nginx 配置优化</h2>]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Nginx</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hi ClayChen</title>
     <url>/202003/index/</url>
     <content><![CDATA[<p>总算把 Blog 搭建起来了。哈哈</p>

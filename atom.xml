@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>磊</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://20379.cn/"/>
+  <updated>2020-03-28T03:38:45.427Z</updated>
+  <id>https://20379.cn/</id>
+  
+  <author>
+    <name>ClayChen6</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nginx 配置</title>
+    <link href="https://20379.cn/202003/nginx-config/"/>
+    <id>https://20379.cn/202003/nginx-config/</id>
+    <published>2020-03-28T02:54:17.000Z</published>
+    <updated>2020-03-28T03:38:45.427Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、Nginx-https-配置&quot;&gt;&lt;a href=&quot;#一、Nginx-https-配置&quot; class=&quot;headerlink&quot; title=&quot;一、Nginx https 配置&quot;&gt;&lt;/a&gt;一、Nginx https 配置&lt;/h2&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://20379.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Nginx" scheme="https://20379.cn/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hi ClayChen</title>
+    <link href="https://20379.cn/202003/index/"/>
+    <id>https://20379.cn/202003/index/</id>
+    <published>2020-03-27T16:37:34.000Z</published>
+    <updated>2020-03-27T16:50:34.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;总算把 Blog
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
